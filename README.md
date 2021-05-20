@@ -2,10 +2,10 @@
 Hello and welcome to the Open Shiba Foundation. This is the place to start if you're interested in helping out any of our projects, or starting a new [Shiba](https://www.shibatoken.com/) project of your own.
 
 ## Who Can Help?
-[Shiba](https://www.shibatoken.com/) as a tool is young, and we as Open Shiba are even younger. As more projects come to life, we'll be looking for all types people to help out with any number of avenues
+[Shiba](https://www.shibatoken.com/) as a tool is young, and we as Open Shiba are even younger. As more projects come to life, we'll be looking for all types people to help out with any number of avenues. This is all very new and still being organize, buit if you have an idea you want to want to get more involved, reach out to the #develpment channel in the [official discord](https://discord.gg/shibatoken).
 
 ### Build:
-If you have a project you need a home for, or want to help with existing open-souce projects, we'd love to have you!
+If you have a project you need a home for, or want to help with existing open-souce projects, we'd love to have you! Check out our [projects](https://github.com/openshiba/projects) to see what's being worked on and learn how to help or submit a new project.
 
 ### Design and UX:
 We all love pretty things, and we love the people who make things pretty even more! Help us look our best! And if it isn't intuitive and easy to use, nobody will use it. Come Halp!
